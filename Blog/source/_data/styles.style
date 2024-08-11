@@ -1,6 +1,1 @@
-//###### 博客内容透明化 ######
-
-:root {
-  --content-bg-color:#ffffffe6;
-}
 
